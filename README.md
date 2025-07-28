@@ -4,7 +4,7 @@ This experiment evaluates how large language models (LLMs) behave in the **Itera
 
 ### 🔬 Experimental Setup
 
-To simulate human behavior as closely as possible, we replicated the experimental design and game parameters used in:
+To simulate human behavior as closely as possible, I replicated the experimental design and game parameters used in:
 
 > **P. Dal Bó and G. R. Fréchette**, *The evolution of cooperation in infinitely repeated games: Experimental evidence*, Brown University and New York University, 2007.  
 > [Online] Available: [https://www.econstor.eu/bitstream/10419/80091/1/541597728.pdf](https://www.econstor.eu/bitstream/10419/80091/1/541597728.pdf)
