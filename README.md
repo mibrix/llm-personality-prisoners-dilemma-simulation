@@ -1,6 +1,6 @@
 ## Experiment: Varying Probabilities of Game Continuation in Iterated PD
 
-This experiment evaluates how large language models (LLMs) behave in the **Iterated Prisoner’s Dilemma (IPD)** when the game has a **probabilistic ending** after each round. Specifically, we test whether LLMs exhibit the "shadow of the future" effect—where higher probabilities of continuation increase cooperation, as seen in human behavior.
+This experiment evaluates how large language models (LLMs) behave in the **Iterated Prisoner’s Dilemma (IPD)** when the game has a **probabilistic ending** after each round. Specifically, I test whether LLMs exhibit the "shadow of the future" effect—where higher probabilities of continuation increase cooperation, as seen in human behavior.
 
 ### 🔬 Experimental Setup
 
